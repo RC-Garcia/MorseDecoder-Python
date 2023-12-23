@@ -1,0 +1,31 @@
+To use the Morse code decoder script, follow these steps:
+
+1.Copy the Code:
+-Copy the provided Python code for the Morse code decoder.
+
+2.Open a Text Editor:
+-Open a text editor on your computer (e.g., Notepad, VSCode, Sublime Text).
+
+3.Paste the Code:
+-Paste the copied Python code into the text editor.
+
+4.Save the File:
+-Save the file with a '.py' extension, for example, 'morse_code_decoder.py'.
+
+5.Run the Script:
+-Open a command prompt or terminal.
+-Navigate to the directory where you saved the Python script using the cd command. For example: cd path\to\your\script
+-Run the script using the 'python' command (make sure you have Python installed on your system). For example: python morse_code_decoder.py
+-If you are using Python 3, you might need to use 'python3' instead of 'python': python3 morse_code_decoder.py
+
+6.Provide Input:
+-After running the script, it will prompt you to provide a Morse code input.
+-Enter the Morse code as a string and press Enter.
+
+7. View Output:
+-The script will then decode the Morse code and print the decoded message.
+
+Here's an example:
+$ python morse_code_decoder.py
+Enter Morse code: ... --- ...
+Decoded Message: SOS
